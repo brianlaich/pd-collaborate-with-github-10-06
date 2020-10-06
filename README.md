@@ -25,7 +25,7 @@ changes from the owner of the original file
 ```
 
 Delete the lines with <<<, >>>, and ===. Edit the changes so that the final result includes your city but doesn't remove anyone else's city.  
-2. Once you have completed your pull request, submit it. Then wait for the facilitator to approve your changes and "pull" them into the original repository. 
+2. Once you have completed your pull request, submit it. Then wait for the facilitator to approve your changes and "pull" them into the original repository.   
 3. You may have a new merge conflict to resolve if other participants have added changes before you. Not to worry, you'll just get more practice 😁.
 
 ### Task 3: Code Review
