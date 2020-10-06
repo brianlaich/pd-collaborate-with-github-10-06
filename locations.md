@@ -1,2 +1,4 @@
-# Where are we all from? 🌏
-I am from Springport, MI. A village where the cows outnumber the people (may they never learn this and rise up...)
+# Where are we all from? 🌏 ✨ ◞(､ᐛ)ﾍ＿/
+Chicago, IL
+Little Rock, Arkansas
+Springport, MI 
