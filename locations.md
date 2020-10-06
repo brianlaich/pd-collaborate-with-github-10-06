@@ -1,2 +1,3 @@
-# Where are we all from? 🌏
-I'm Marc. I'm from Iowa City, IA :corn:
+# Where are we all from? 🌏 ✨
+Chicago, IL
+Iowa City, IA :corn:
